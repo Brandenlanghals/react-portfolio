@@ -20,12 +20,12 @@ export default
        // Change Projects Here 
        projects:[
            {
-            id: 1,//DO NOT CHANGE THIS (Please)😅
-            title:"I'm Hungry", //Project Title - Add Your Project Title Here
-             service:'UI/UX Design', // Add Your Service Type Here
-            //Project Image - Add Your Project Image Here
+            id: 1,//DO NOT CHANGE
+            title:"I'm Hungry", //Project Title 
+             service:'UI/UX Design', // Service Type
+            //Project Image 
              imageSrc:"https://images.unsplash.com/photo-1558104631-0fa41a8f6c20?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-             //Project URL - Add Your Project Url Here
+             //Project URL
              url:'http://chetanverma.com/'
             },
             {
