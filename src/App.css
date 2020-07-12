@@ -23,7 +23,7 @@ body{
   flex-direction: column;
   align-items: center;
   color: #0de3eb;
-  top:4em;
+  top:1em;
 }
 .heading-background{
   position: fixed;
@@ -49,7 +49,7 @@ margin-right: 50em;
 nav{
   position:fixed;
   left:60em;
-  top:6em;
+  top:2em;
 z-index: 100;
 }
 nav li{
@@ -121,7 +121,7 @@ li .link:hover{
   color: silver;
 }
 .about img{
-  margin-left: 5em;
+  margin-left: 1em;
 }
 .work{
   position: relative;
@@ -184,7 +184,7 @@ height: 30em;
 }
 .footer a{
   text-decoration: none;
-  color:#2c59fb;
+  color:#0de3eb;
 }
 
 
