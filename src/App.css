@@ -57,6 +57,10 @@ nav li{
   cursor: pointer;
 
 }
+.social{
+  color: aqua;
+  font-weight: bolder;
+}
 nav li .link{
   text-decoration: none;
   color: black;

@@ -13,18 +13,19 @@ export default
         //Contact Email
         contactEmail:'brandenlanghals@gmail.com',
         // Add Your About Text Here
-        abouttext: "I used to be a moderately successful musician, and now I am a moderately talented software developer. Like many others, I needed a career change and decided to follow through with a passion I had years ago.   Obsessing over my Xanga page, or customizing the details of my  MySpace  was never something I thought could lead to a career. My passion for web development, and my drive for getting things done led me to the Case Western Reserve University Coding Bootcamp.  I am aware that full stack development cannot be mastered in six months, but the real value is the effort I put forth to confidently study each skill.  In this time I have developed dynamic applications using HTML, CSS, JavaScript, React, SQL, JSON, AJAX, NodeJS, apps using third-party APIs,  got really good at debugging, and all during the new reality of the COVID-19 pandemic.   With continued learning, I look forward to working with passion, and integrity for a company whose values are aligned with my own.   ",
+        abouttext: "I used to be a moderately successful musician, and now I am a moderately talented software developer. In need of a career change, I decided to follow through with a passion I had years ago. Obsessing over my Xanga page, or customizing the details of my MySpace was never something I thought could lead to a career. My passion for web development, and my drive for getting things done led me to the Case Western Reserve University Coding Bootcamp. I am aware that full stack development cannot be mastered in six months, but the real value is the effort I put forth to confidently hone each skill. During my cohort I have developed dynamic applications using HTML, CSS, JavaScript, React, SQL, JSON, AJAX, NodeJS, apps using third-party APIs,  got really good at debugging, and all during the new reality of the COVID-19 pandemic.   With continued learning, I look forward to working with passion, and integrity for a company whose values are aligned with my own.   ",
         aboutImage:'https://i.ibb.co/yPR5Jgt/handsome-Hunk.png',
        //Change This To Hide The Image of About Section (True Or False)
        ShowAboutImage:true,//true or false (Change Here)
        // Change Projects Here 
+       
        projects:[
            {
             id: 1,//DO NOT CHANGE
             title:"I'm Hungry App", //Project Title 
              service:'Project One', // Service Type
             //Project Image 
-             imageSrc:"https://i.ibb.co/kGNNNXJ/Screen-Shot-2020-07-10-at-9-16-18-PM.png",
+             imageSrc:"https://i.ibb.co/Njy2sBm/Screen-Shot-2020-07-24-at-11-25-18-PM.png",
              //Project URL
              url:'https://brandenlanghals.github.io/imhungryapp/'
             },
@@ -66,10 +67,10 @@ export default
             // Add Or Remove The Link Accordingly
             {   name:'Click here to check out my Github',
                 url:'https://github.com/Brandenlanghals'},
-            // {
-            //     name: 'Behance',
-            //     url: 'https://www.behance.net/chetanverma'
-            // },
+            {
+                name: 'Click here to view my resume',
+                url: 'https://i.ibb.co/YNYmNQ2/DevRes.png'
+            },
             // {
             //     name: 'Dribbble',
             //     url: 'https://dribbble.com/chetanverma'
