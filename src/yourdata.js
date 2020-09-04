@@ -65,20 +65,20 @@ export default
         ],
         social: [
             // Add Or Remove The Link Accordingly
-            {   name:'Click here to check out my Github',
+            {   name:'Click here to view my Github',
                 url:'https://github.com/Brandenlanghals'},
             {
                 name: 'Click here to view my resume',
-                url: 'https://i.ibb.co/YNYmNQ2/DevRes.png'
+                url: 'https://ibb.co/G3ygDwW'
             },
-            // {
-            //     name: 'Dribbble',
-            //     url: 'https://dribbble.com/chetanverma'
-            // },
-            // {
-            //     name: 'Instagram',
-            //     url: 'https://www.instagram.com/cv.uidesign/'
-            // }
+            {
+                name: 'Click here to view my LinkedIn',
+                url: 'https://www.linkedin.com/in/brandenlanghals/'
+            },
+            {
+                name: 'Instagram',
+                url: 'https://www.instagram.com/cv.uidesign/'
+            }
 
         ]
     }
