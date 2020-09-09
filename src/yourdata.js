@@ -75,10 +75,10 @@ export default
                 name: 'Click here to view my LinkedIn',
                 url: 'https://www.linkedin.com/in/brandenlanghals/'
             },
-            {
-                name: 'Instagram',
-                url: 'https://www.instagram.com/cv.uidesign/'
-            }
+            // {
+            //     name: 'Instagram',
+            //     url: 'https://www.instagram.com/cv.uidesign/'
+            // }
 
         ]
     }
